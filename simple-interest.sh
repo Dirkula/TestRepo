@@ -1,0 +1,1 @@
+The repository includes a `simple-interest.sh` file, which is a shell script designed to calculate simple interest. It prompts the user for input values such as principal, rate, and time, and then computes the interest accordingly.
